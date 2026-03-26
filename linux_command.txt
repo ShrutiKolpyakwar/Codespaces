@@ -1,0 +1,40 @@
+pwd
+ls
+whoami
+mkdir linux_lab
+cd linux_lab
+pwd
+ls
+touch file.txt
+ls
+echo "hello Shruti" > file.txt
+cat file.txt
+touch file1.txt
+cp file1.txt file2.txt
+-l
+-a
+ls
+cp file.txt file1.txt
+cp file1.txt file2.txt
+mv file1.txt file3.txt mv file2.txt file4.txt
+rm file4.txt
+ls
+nano file1.txt
+y
+nano file1.txt
+nano file1.txt
+nano file.txt
+cat file.txt
+echo "Hii" >> file.txt
+cat file.txt
+pwd
+ls
+cd linux_lab
+ls
+cd ..
+git init
+git remote add origin https://github.com/ShrutiKolpyakwar/Codespaces.git
+git add .
+git commit -m "Linux practice files"
+git push -u origin main
+history
