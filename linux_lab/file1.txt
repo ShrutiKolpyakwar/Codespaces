@@ -1,0 +1,4 @@
+Hello Shruti
+This is my first nano file
+Linux is awesome
+
