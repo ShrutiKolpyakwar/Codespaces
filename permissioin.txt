@@ -1,0 +1,18 @@
+# Linux File Permissions Practice
+
+# Check permissions
+ls -l
+
+# Give full permission to file.txt
+chmod 777 file.txt
+
+# Owner full, others read
+chmod 744 file1.txt
+
+# Owner read/write, group read, others none
+chmod 640 file3.txt
+
+# Symbolic permissions
+chmod u+x file.txt
+chmod g-w file1.txt
+chmod o-r file3.txt
